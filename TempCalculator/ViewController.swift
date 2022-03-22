@@ -10,7 +10,6 @@ import UIKit
 class ViewController: UIViewController, UITextFieldDelegate {
     
     //This app is a comment to document changes pushed to GitHub!
-    //Second comment. 
     
     
     @IBOutlet weak var fahrenheitLabel: UILabel!
