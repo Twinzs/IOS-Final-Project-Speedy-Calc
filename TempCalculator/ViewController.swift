@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController, UITextFieldDelegate {
     
+    //This app is now under source control via GitHub.
     
     @IBOutlet weak var fahrenheitLabel: UILabel!
     
